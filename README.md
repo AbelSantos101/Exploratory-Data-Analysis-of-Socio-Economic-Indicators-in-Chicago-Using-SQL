@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-of-Socio-Economic-Indicators-in-Chicago-Using-SQL
+# SQL-Exploratory-Data-Analysis-of-Socio-Economic-Indicators-in-Chicago
 
 This repository contains a Jupyter Notebook file and associated data for conducting exploratory data analysis (EDA) of socio-economic indicators in Chicago using SQL queries. The project aims to analyze and visualize various socio-economic factors across different community areas in Chicago, including poverty rates, unemployment rates, educational attainment, and per capita income.
 
